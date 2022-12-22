@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T05. Special Numbers\bin\Debug\netcoreapp3.1\T05. Special Numbers.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T05. Special Numbers\bin\Debug\netcoreapp3.1\T05. Special Numbers.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T05. Special Numbers\bin\Debug\netcoreapp3.1\T05. Special Numbers.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T05. Special Numbers\bin\Debug\netcoreapp3.1\T05. Special Numbers.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T05. Special Numbers\bin\Debug\netcoreapp3.1\T05. Special Numbers.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T05. Special Numbers\bin\Debug\netcoreapp3.1\T05. Special Numbers.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T05. Special Numbers\obj\Debug\netcoreapp3.1\T05. Special Numbers.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T05. Special Numbers\obj\Debug\netcoreapp3.1\T05. Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T05. Special Numbers\obj\Debug\netcoreapp3.1\T05. Special Numbers.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T05. Special Numbers\obj\Debug\netcoreapp3.1\T05. Special Numbers.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T05. Special Numbers\obj\Debug\netcoreapp3.1\T05. Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T05. Special Numbers\obj\Debug\netcoreapp3.1\T05. Special Numbers.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T05. Special Numbers\obj\Debug\netcoreapp3.1\T05. Special Numbers.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T05. Special Numbers\obj\Debug\netcoreapp3.1\T05. Special Numbers.genruntimeconfig.cache

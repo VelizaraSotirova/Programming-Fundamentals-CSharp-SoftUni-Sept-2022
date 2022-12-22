@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T07. Water Overflow\bin\Debug\netcoreapp3.1\T07. Water Overflow.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T07. Water Overflow\bin\Debug\netcoreapp3.1\T07. Water Overflow.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T07. Water Overflow\bin\Debug\netcoreapp3.1\T07. Water Overflow.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T07. Water Overflow\bin\Debug\netcoreapp3.1\T07. Water Overflow.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T07. Water Overflow\bin\Debug\netcoreapp3.1\T07. Water Overflow.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T07. Water Overflow\bin\Debug\netcoreapp3.1\T07. Water Overflow.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T07. Water Overflow\obj\Debug\netcoreapp3.1\T07. Water Overflow.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T07. Water Overflow\obj\Debug\netcoreapp3.1\T07. Water Overflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T07. Water Overflow\obj\Debug\netcoreapp3.1\T07. Water Overflow.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T07. Water Overflow\obj\Debug\netcoreapp3.1\T07. Water Overflow.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T07. Water Overflow\obj\Debug\netcoreapp3.1\T07. Water Overflow.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T07. Water Overflow\obj\Debug\netcoreapp3.1\T07. Water Overflow.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T07. Water Overflow\obj\Debug\netcoreapp3.1\T07. Water Overflow.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T07. Water Overflow\obj\Debug\netcoreapp3.1\T07. Water Overflow.genruntimeconfig.cache

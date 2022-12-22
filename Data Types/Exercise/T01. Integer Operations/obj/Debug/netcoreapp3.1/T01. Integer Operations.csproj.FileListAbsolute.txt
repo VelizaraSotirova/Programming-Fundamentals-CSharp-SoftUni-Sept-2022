@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T01. Integer Operations\bin\Debug\netcoreapp3.1\T01. Integer Operations.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T01. Integer Operations\bin\Debug\netcoreapp3.1\T01. Integer Operations.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T01. Integer Operations\bin\Debug\netcoreapp3.1\T01. Integer Operations.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T01. Integer Operations\bin\Debug\netcoreapp3.1\T01. Integer Operations.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T01. Integer Operations\bin\Debug\netcoreapp3.1\T01. Integer Operations.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T01. Integer Operations\bin\Debug\netcoreapp3.1\T01. Integer Operations.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T01. Integer Operations\obj\Debug\netcoreapp3.1\T01. Integer Operations.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T01. Integer Operations\obj\Debug\netcoreapp3.1\T01. Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T01. Integer Operations\obj\Debug\netcoreapp3.1\T01. Integer Operations.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T01. Integer Operations\obj\Debug\netcoreapp3.1\T01. Integer Operations.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T01. Integer Operations\obj\Debug\netcoreapp3.1\T01. Integer Operations.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T01. Integer Operations\obj\Debug\netcoreapp3.1\T01. Integer Operations.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T01. Integer Operations\obj\Debug\netcoreapp3.1\T01. Integer Operations.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T01. Integer Operations\obj\Debug\netcoreapp3.1\T01. Integer Operations.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T04. Centuries to Minutes\bin\Debug\netcoreapp3.1\T04. Centuries to Minutes.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T04. Centuries to Minutes\bin\Debug\netcoreapp3.1\T04. Centuries to Minutes.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T04. Centuries to Minutes\bin\Debug\netcoreapp3.1\T04. Centuries to Minutes.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T04. Centuries to Minutes\bin\Debug\netcoreapp3.1\T04. Centuries to Minutes.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T04. Centuries to Minutes\bin\Debug\netcoreapp3.1\T04. Centuries to Minutes.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T04. Centuries to Minutes\bin\Debug\netcoreapp3.1\T04. Centuries to Minutes.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T04. Centuries to Minutes\obj\Debug\netcoreapp3.1\T04. Centuries to Minutes.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T04. Centuries to Minutes\obj\Debug\netcoreapp3.1\T04. Centuries to Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T04. Centuries to Minutes\obj\Debug\netcoreapp3.1\T04. Centuries to Minutes.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T04. Centuries to Minutes\obj\Debug\netcoreapp3.1\T04. Centuries to Minutes.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T04. Centuries to Minutes\obj\Debug\netcoreapp3.1\T04. Centuries to Minutes.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T04. Centuries to Minutes\obj\Debug\netcoreapp3.1\T04. Centuries to Minutes.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T04. Centuries to Minutes\obj\Debug\netcoreapp3.1\T04. Centuries to Minutes.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T04. Centuries to Minutes\obj\Debug\netcoreapp3.1\T04. Centuries to Minutes.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T09. Chars to String\bin\Debug\netcoreapp3.1\T09. Chars to String.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T09. Chars to String\bin\Debug\netcoreapp3.1\T09. Chars to String.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T09. Chars to String\bin\Debug\netcoreapp3.1\T09. Chars to String.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T09. Chars to String\bin\Debug\netcoreapp3.1\T09. Chars to String.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T09. Chars to String\bin\Debug\netcoreapp3.1\T09. Chars to String.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T09. Chars to String\bin\Debug\netcoreapp3.1\T09. Chars to String.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T09. Chars to String\obj\Debug\netcoreapp3.1\T09. Chars to String.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T09. Chars to String\obj\Debug\netcoreapp3.1\T09. Chars to String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T09. Chars to String\obj\Debug\netcoreapp3.1\T09. Chars to String.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T09. Chars to String\obj\Debug\netcoreapp3.1\T09. Chars to String.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T09. Chars to String\obj\Debug\netcoreapp3.1\T09. Chars to String.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T09. Chars to String\obj\Debug\netcoreapp3.1\T09. Chars to String.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T09. Chars to String\obj\Debug\netcoreapp3.1\T09. Chars to String.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T09. Chars to String\obj\Debug\netcoreapp3.1\T09. Chars to String.genruntimeconfig.cache

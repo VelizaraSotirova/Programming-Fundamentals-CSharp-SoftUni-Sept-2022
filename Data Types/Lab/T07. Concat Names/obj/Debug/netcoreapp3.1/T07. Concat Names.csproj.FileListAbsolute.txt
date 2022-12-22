@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T07. Concat Names\bin\Debug\netcoreapp3.1\T07. Concat Names.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T07. Concat Names\bin\Debug\netcoreapp3.1\T07. Concat Names.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T07. Concat Names\bin\Debug\netcoreapp3.1\T07. Concat Names.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T07. Concat Names\bin\Debug\netcoreapp3.1\T07. Concat Names.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T07. Concat Names\bin\Debug\netcoreapp3.1\T07. Concat Names.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T07. Concat Names\bin\Debug\netcoreapp3.1\T07. Concat Names.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T07. Concat Names\obj\Debug\netcoreapp3.1\T07. Concat Names.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T07. Concat Names\obj\Debug\netcoreapp3.1\T07. Concat Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T07. Concat Names\obj\Debug\netcoreapp3.1\T07. Concat Names.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T07. Concat Names\obj\Debug\netcoreapp3.1\T07. Concat Names.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T07. Concat Names\obj\Debug\netcoreapp3.1\T07. Concat Names.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T07. Concat Names\obj\Debug\netcoreapp3.1\T07. Concat Names.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T07. Concat Names\obj\Debug\netcoreapp3.1\T07. Concat Names.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T07. Concat Names\obj\Debug\netcoreapp3.1\T07. Concat Names.genruntimeconfig.cache

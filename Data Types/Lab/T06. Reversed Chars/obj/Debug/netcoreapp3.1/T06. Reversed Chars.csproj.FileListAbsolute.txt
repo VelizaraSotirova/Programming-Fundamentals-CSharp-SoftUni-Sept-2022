@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T06. Reversed Chars\bin\Debug\netcoreapp3.1\T06. Reversed Chars.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T06. Reversed Chars\bin\Debug\netcoreapp3.1\T06. Reversed Chars.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T06. Reversed Chars\bin\Debug\netcoreapp3.1\T06. Reversed Chars.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T06. Reversed Chars\bin\Debug\netcoreapp3.1\T06. Reversed Chars.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T06. Reversed Chars\bin\Debug\netcoreapp3.1\T06. Reversed Chars.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T06. Reversed Chars\bin\Debug\netcoreapp3.1\T06. Reversed Chars.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T06. Reversed Chars\obj\Debug\netcoreapp3.1\T06. Reversed Chars.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T06. Reversed Chars\obj\Debug\netcoreapp3.1\T06. Reversed Chars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T06. Reversed Chars\obj\Debug\netcoreapp3.1\T06. Reversed Chars.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T06. Reversed Chars\obj\Debug\netcoreapp3.1\T06. Reversed Chars.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T06. Reversed Chars\obj\Debug\netcoreapp3.1\T06. Reversed Chars.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T06. Reversed Chars\obj\Debug\netcoreapp3.1\T06. Reversed Chars.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T06. Reversed Chars\obj\Debug\netcoreapp3.1\T06. Reversed Chars.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Lab\T06. Reversed Chars\obj\Debug\netcoreapp3.1\T06. Reversed Chars.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T02. Sum Digits\bin\Debug\netcoreapp3.1\T02. Sum Digits.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T02. Sum Digits\bin\Debug\netcoreapp3.1\T02. Sum Digits.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T02. Sum Digits\bin\Debug\netcoreapp3.1\T02. Sum Digits.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T02. Sum Digits\bin\Debug\netcoreapp3.1\T02. Sum Digits.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T02. Sum Digits\bin\Debug\netcoreapp3.1\T02. Sum Digits.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T02. Sum Digits\bin\Debug\netcoreapp3.1\T02. Sum Digits.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T02. Sum Digits\obj\Debug\netcoreapp3.1\T02. Sum Digits.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T02. Sum Digits\obj\Debug\netcoreapp3.1\T02. Sum Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T02. Sum Digits\obj\Debug\netcoreapp3.1\T02. Sum Digits.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T02. Sum Digits\obj\Debug\netcoreapp3.1\T02. Sum Digits.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T02. Sum Digits\obj\Debug\netcoreapp3.1\T02. Sum Digits.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T02. Sum Digits\obj\Debug\netcoreapp3.1\T02. Sum Digits.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T02. Sum Digits\obj\Debug\netcoreapp3.1\T02. Sum Digits.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\02. Data types and Variables\Data Types and Variables - Exercise\T02. Sum Digits\obj\Debug\netcoreapp3.1\T02. Sum Digits.genruntimeconfig.cache
