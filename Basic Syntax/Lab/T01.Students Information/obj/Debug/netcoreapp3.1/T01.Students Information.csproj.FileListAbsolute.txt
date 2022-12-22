@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T01.Students Information\bin\Debug\netcoreapp3.1\T01.Students Information.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T01.Students Information\bin\Debug\netcoreapp3.1\T01.Students Information.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T01.Students Information\bin\Debug\netcoreapp3.1\T01.Students Information.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T01.Students Information\bin\Debug\netcoreapp3.1\T01.Students Information.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T01.Students Information\bin\Debug\netcoreapp3.1\T01.Students Information.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T01.Students Information\bin\Debug\netcoreapp3.1\T01.Students Information.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T01.Students Information\obj\Debug\netcoreapp3.1\T01.Students Information.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T01.Students Information\obj\Debug\netcoreapp3.1\T01.Students Information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T01.Students Information\obj\Debug\netcoreapp3.1\T01.Students Information.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T01.Students Information\obj\Debug\netcoreapp3.1\T01.Students Information.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T01.Students Information\obj\Debug\netcoreapp3.1\T01.Students Information.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T01.Students Information\obj\Debug\netcoreapp3.1\T01.Students Information.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T01.Students Information\obj\Debug\netcoreapp3.1\T01.Students Information.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T01.Students Information\obj\Debug\netcoreapp3.1\T01.Students Information.genruntimeconfig.cache

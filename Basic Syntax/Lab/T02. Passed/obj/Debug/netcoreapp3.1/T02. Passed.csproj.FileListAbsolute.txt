@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T02. Passed\bin\Debug\netcoreapp3.1\T02. Passed.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T02. Passed\bin\Debug\netcoreapp3.1\T02. Passed.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T02. Passed\bin\Debug\netcoreapp3.1\T02. Passed.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T02. Passed\bin\Debug\netcoreapp3.1\T02. Passed.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T02. Passed\bin\Debug\netcoreapp3.1\T02. Passed.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T02. Passed\bin\Debug\netcoreapp3.1\T02. Passed.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T02. Passed\obj\Debug\netcoreapp3.1\T02. Passed.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T02. Passed\obj\Debug\netcoreapp3.1\T02. Passed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T02. Passed\obj\Debug\netcoreapp3.1\T02. Passed.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T02. Passed\obj\Debug\netcoreapp3.1\T02. Passed.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T02. Passed\obj\Debug\netcoreapp3.1\T02. Passed.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T02. Passed\obj\Debug\netcoreapp3.1\T02. Passed.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T02. Passed\obj\Debug\netcoreapp3.1\T02. Passed.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T02. Passed\obj\Debug\netcoreapp3.1\T02. Passed.genruntimeconfig.cache

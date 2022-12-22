@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T13. Holidays Between\bin\Debug\netcoreapp3.1\T13. Holidays Between.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T13. Holidays Between\bin\Debug\netcoreapp3.1\T13. Holidays Between.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T13. Holidays Between\bin\Debug\netcoreapp3.1\T13. Holidays Between.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T13. Holidays Between\bin\Debug\netcoreapp3.1\T13. Holidays Between.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T13. Holidays Between\bin\Debug\netcoreapp3.1\T13. Holidays Between.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T13. Holidays Between\bin\Debug\netcoreapp3.1\T13. Holidays Between.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T13. Holidays Between\obj\Debug\netcoreapp3.1\T13. Holidays Between.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T13. Holidays Between\obj\Debug\netcoreapp3.1\T13. Holidays Between.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T13. Holidays Between\obj\Debug\netcoreapp3.1\T13. Holidays Between.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T13. Holidays Between\obj\Debug\netcoreapp3.1\T13. Holidays Between.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T13. Holidays Between\obj\Debug\netcoreapp3.1\T13. Holidays Between.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T13. Holidays Between\obj\Debug\netcoreapp3.1\T13. Holidays Between.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T13. Holidays Between\obj\Debug\netcoreapp3.1\T13. Holidays Between.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\T13. Holidays Between\obj\Debug\netcoreapp3.1\T13. Holidays Between.genruntimeconfig.cache
