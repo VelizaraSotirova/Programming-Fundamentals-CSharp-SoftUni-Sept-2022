@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T08.TriangleNum\bin\Debug\netcoreapp3.1\T08.TriangleNum.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T08.TriangleNum\bin\Debug\netcoreapp3.1\T08.TriangleNum.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T08.TriangleNum\bin\Debug\netcoreapp3.1\T08.TriangleNum.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T08.TriangleNum\bin\Debug\netcoreapp3.1\T08.TriangleNum.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T08.TriangleNum\bin\Debug\netcoreapp3.1\T08.TriangleNum.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T08.TriangleNum\bin\Debug\netcoreapp3.1\T08.TriangleNum.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T08.TriangleNum\obj\Debug\netcoreapp3.1\T08.TriangleNum.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T08.TriangleNum\obj\Debug\netcoreapp3.1\T08.TriangleNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T08.TriangleNum\obj\Debug\netcoreapp3.1\T08.TriangleNum.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T08.TriangleNum\obj\Debug\netcoreapp3.1\T08.TriangleNum.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T08.TriangleNum\obj\Debug\netcoreapp3.1\T08.TriangleNum.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T08.TriangleNum\obj\Debug\netcoreapp3.1\T08.TriangleNum.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T08.TriangleNum\obj\Debug\netcoreapp3.1\T08.TriangleNum.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T08.TriangleNum\obj\Debug\netcoreapp3.1\T08.TriangleNum.genruntimeconfig.cache

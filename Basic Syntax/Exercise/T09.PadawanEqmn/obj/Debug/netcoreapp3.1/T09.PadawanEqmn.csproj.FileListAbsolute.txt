@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T09.PadawanEqmn\bin\Debug\netcoreapp3.1\T09.PadawanEqmn.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T09.PadawanEqmn\bin\Debug\netcoreapp3.1\T09.PadawanEqmn.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T09.PadawanEqmn\bin\Debug\netcoreapp3.1\T09.PadawanEqmn.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T09.PadawanEqmn\bin\Debug\netcoreapp3.1\T09.PadawanEqmn.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T09.PadawanEqmn\bin\Debug\netcoreapp3.1\T09.PadawanEqmn.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T09.PadawanEqmn\bin\Debug\netcoreapp3.1\T09.PadawanEqmn.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T09.PadawanEqmn\obj\Debug\netcoreapp3.1\T09.PadawanEqmn.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T09.PadawanEqmn\obj\Debug\netcoreapp3.1\T09.PadawanEqmn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T09.PadawanEqmn\obj\Debug\netcoreapp3.1\T09.PadawanEqmn.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T09.PadawanEqmn\obj\Debug\netcoreapp3.1\T09.PadawanEqmn.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T09.PadawanEqmn\obj\Debug\netcoreapp3.1\T09.PadawanEqmn.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T09.PadawanEqmn\obj\Debug\netcoreapp3.1\T09.PadawanEqmn.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T09.PadawanEqmn\obj\Debug\netcoreapp3.1\T09.PadawanEqmn.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T09.PadawanEqmn\obj\Debug\netcoreapp3.1\T09.PadawanEqmn.genruntimeconfig.cache

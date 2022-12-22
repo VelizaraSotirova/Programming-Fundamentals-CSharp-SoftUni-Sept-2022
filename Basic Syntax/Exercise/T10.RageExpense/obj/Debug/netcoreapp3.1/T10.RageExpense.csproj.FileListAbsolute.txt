@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T10.RageExpense\bin\Debug\netcoreapp3.1\T10.RageExpense.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T10.RageExpense\bin\Debug\netcoreapp3.1\T10.RageExpense.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T10.RageExpense\bin\Debug\netcoreapp3.1\T10.RageExpense.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T10.RageExpense\bin\Debug\netcoreapp3.1\T10.RageExpense.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T10.RageExpense\bin\Debug\netcoreapp3.1\T10.RageExpense.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T10.RageExpense\bin\Debug\netcoreapp3.1\T10.RageExpense.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T10.RageExpense\obj\Debug\netcoreapp3.1\T10.RageExpense.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T10.RageExpense\obj\Debug\netcoreapp3.1\T10.RageExpense.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T10.RageExpense\obj\Debug\netcoreapp3.1\T10.RageExpense.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T10.RageExpense\obj\Debug\netcoreapp3.1\T10.RageExpense.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T10.RageExpense\obj\Debug\netcoreapp3.1\T10.RageExpense.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T10.RageExpense\obj\Debug\netcoreapp3.1\T10.RageExpense.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T10.RageExpense\obj\Debug\netcoreapp3.1\T10.RageExpense.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T10.RageExpense\obj\Debug\netcoreapp3.1\T10.RageExpense.genruntimeconfig.cache

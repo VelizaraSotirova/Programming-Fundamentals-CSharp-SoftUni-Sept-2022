@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T05. Login\bin\Debug\netcoreapp3.1\T05. Login.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T05. Login\bin\Debug\netcoreapp3.1\T05. Login.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T05. Login\bin\Debug\netcoreapp3.1\T05. Login.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T05. Login\bin\Debug\netcoreapp3.1\T05. Login.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T05. Login\bin\Debug\netcoreapp3.1\T05. Login.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T05. Login\bin\Debug\netcoreapp3.1\T05. Login.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T05. Login\obj\Debug\netcoreapp3.1\T05. Login.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T05. Login\obj\Debug\netcoreapp3.1\T05. Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T05. Login\obj\Debug\netcoreapp3.1\T05. Login.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T05. Login\obj\Debug\netcoreapp3.1\T05. Login.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T05. Login\obj\Debug\netcoreapp3.1\T05. Login.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T05. Login\obj\Debug\netcoreapp3.1\T05. Login.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T05. Login\obj\Debug\netcoreapp3.1\T05. Login.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T05. Login\obj\Debug\netcoreapp3.1\T05. Login.genruntimeconfig.cache

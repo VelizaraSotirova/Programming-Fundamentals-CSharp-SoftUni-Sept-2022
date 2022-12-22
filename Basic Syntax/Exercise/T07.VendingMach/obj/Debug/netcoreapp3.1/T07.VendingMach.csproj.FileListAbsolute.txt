@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T07.VendingMach\bin\Debug\netcoreapp3.1\T07.VendingMach.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T07.VendingMach\bin\Debug\netcoreapp3.1\T07.VendingMach.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T07.VendingMach\bin\Debug\netcoreapp3.1\T07.VendingMach.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T07.VendingMach\bin\Debug\netcoreapp3.1\T07.VendingMach.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T07.VendingMach\bin\Debug\netcoreapp3.1\T07.VendingMach.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T07.VendingMach\bin\Debug\netcoreapp3.1\T07.VendingMach.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T07.VendingMach\obj\Debug\netcoreapp3.1\T07.VendingMach.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T07.VendingMach\obj\Debug\netcoreapp3.1\T07.VendingMach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T07.VendingMach\obj\Debug\netcoreapp3.1\T07.VendingMach.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T07.VendingMach\obj\Debug\netcoreapp3.1\T07.VendingMach.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T07.VendingMach\obj\Debug\netcoreapp3.1\T07.VendingMach.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T07.VendingMach\obj\Debug\netcoreapp3.1\T07.VendingMach.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T07.VendingMach\obj\Debug\netcoreapp3.1\T07.VendingMach.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T07.VendingMach\obj\Debug\netcoreapp3.1\T07.VendingMach.genruntimeconfig.cache

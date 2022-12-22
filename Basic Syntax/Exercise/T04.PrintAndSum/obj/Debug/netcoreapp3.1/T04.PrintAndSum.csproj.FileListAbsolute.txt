@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T04.PrintAndSum\bin\Debug\netcoreapp3.1\T04.PrintAndSum.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T04.PrintAndSum\bin\Debug\netcoreapp3.1\T04.PrintAndSum.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T04.PrintAndSum\bin\Debug\netcoreapp3.1\T04.PrintAndSum.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T04.PrintAndSum\bin\Debug\netcoreapp3.1\T04.PrintAndSum.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T04.PrintAndSum\bin\Debug\netcoreapp3.1\T04.PrintAndSum.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T04.PrintAndSum\bin\Debug\netcoreapp3.1\T04.PrintAndSum.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T04.PrintAndSum\obj\Debug\netcoreapp3.1\T04.PrintAndSum.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T04.PrintAndSum\obj\Debug\netcoreapp3.1\T04.PrintAndSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T04.PrintAndSum\obj\Debug\netcoreapp3.1\T04.PrintAndSum.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T04.PrintAndSum\obj\Debug\netcoreapp3.1\T04.PrintAndSum.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T04.PrintAndSum\obj\Debug\netcoreapp3.1\T04.PrintAndSum.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T04.PrintAndSum\obj\Debug\netcoreapp3.1\T04.PrintAndSum.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T04.PrintAndSum\obj\Debug\netcoreapp3.1\T04.PrintAndSum.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T04.PrintAndSum\obj\Debug\netcoreapp3.1\T04.PrintAndSum.genruntimeconfig.cache

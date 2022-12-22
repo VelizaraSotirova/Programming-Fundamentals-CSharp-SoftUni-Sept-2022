@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T06.StrongNum\bin\Debug\netcoreapp3.1\T06.StrongNum.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T06.StrongNum\bin\Debug\netcoreapp3.1\T06.StrongNum.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T06.StrongNum\bin\Debug\netcoreapp3.1\T06.StrongNum.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T06.StrongNum\bin\Debug\netcoreapp3.1\T06.StrongNum.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T06.StrongNum\bin\Debug\netcoreapp3.1\T06.StrongNum.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T06.StrongNum\bin\Debug\netcoreapp3.1\T06.StrongNum.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T06.StrongNum\obj\Debug\netcoreapp3.1\T06.StrongNum.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T06.StrongNum\obj\Debug\netcoreapp3.1\T06.StrongNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T06.StrongNum\obj\Debug\netcoreapp3.1\T06.StrongNum.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T06.StrongNum\obj\Debug\netcoreapp3.1\T06.StrongNum.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T06.StrongNum\obj\Debug\netcoreapp3.1\T06.StrongNum.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T06.StrongNum\obj\Debug\netcoreapp3.1\T06.StrongNum.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T06.StrongNum\obj\Debug\netcoreapp3.1\T06.StrongNum.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T06.StrongNum\obj\Debug\netcoreapp3.1\T06.StrongNum.genruntimeconfig.cache

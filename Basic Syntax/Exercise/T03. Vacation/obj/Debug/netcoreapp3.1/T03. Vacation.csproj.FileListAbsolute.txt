@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T03. Vacation\bin\Debug\netcoreapp3.1\T03. Vacation.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T03. Vacation\bin\Debug\netcoreapp3.1\T03. Vacation.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T03. Vacation\bin\Debug\netcoreapp3.1\T03. Vacation.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T03. Vacation\bin\Debug\netcoreapp3.1\T03. Vacation.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T03. Vacation\bin\Debug\netcoreapp3.1\T03. Vacation.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T03. Vacation\bin\Debug\netcoreapp3.1\T03. Vacation.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T03. Vacation\obj\Debug\netcoreapp3.1\T03. Vacation.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T03. Vacation\obj\Debug\netcoreapp3.1\T03. Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T03. Vacation\obj\Debug\netcoreapp3.1\T03. Vacation.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T03. Vacation\obj\Debug\netcoreapp3.1\T03. Vacation.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T03. Vacation\obj\Debug\netcoreapp3.1\T03. Vacation.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T03. Vacation\obj\Debug\netcoreapp3.1\T03. Vacation.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T03. Vacation\obj\Debug\netcoreapp3.1\T03. Vacation.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\T03. Vacation\obj\Debug\netcoreapp3.1\T03. Vacation.genruntimeconfig.cache
