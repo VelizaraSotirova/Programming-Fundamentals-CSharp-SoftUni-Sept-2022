@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\07.Associative Arrays\AssociativeArraysLab\T04. Word Filter\bin\Debug\netcoreapp3.1\T04. Word Filter.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\07.Associative Arrays\AssociativeArraysLab\T04. Word Filter\bin\Debug\netcoreapp3.1\T04. Word Filter.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\07.Associative Arrays\AssociativeArraysLab\T04. Word Filter\bin\Debug\netcoreapp3.1\T04. Word Filter.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\07.Associative Arrays\AssociativeArraysLab\T04. Word Filter\bin\Debug\netcoreapp3.1\T04. Word Filter.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\07.Associative Arrays\AssociativeArraysLab\T04. Word Filter\bin\Debug\netcoreapp3.1\T04. Word Filter.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\07.Associative Arrays\AssociativeArraysLab\T04. Word Filter\bin\Debug\netcoreapp3.1\T04. Word Filter.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\07.Associative Arrays\AssociativeArraysLab\T04. Word Filter\obj\Debug\netcoreapp3.1\T04. Word Filter.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\07.Associative Arrays\AssociativeArraysLab\T04. Word Filter\obj\Debug\netcoreapp3.1\T04. Word Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\07.Associative Arrays\AssociativeArraysLab\T04. Word Filter\obj\Debug\netcoreapp3.1\T04. Word Filter.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\07.Associative Arrays\AssociativeArraysLab\T04. Word Filter\obj\Debug\netcoreapp3.1\T04. Word Filter.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\07.Associative Arrays\AssociativeArraysLab\T04. Word Filter\obj\Debug\netcoreapp3.1\T04. Word Filter.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\07.Associative Arrays\AssociativeArraysLab\T04. Word Filter\obj\Debug\netcoreapp3.1\T04. Word Filter.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\07.Associative Arrays\AssociativeArraysLab\T04. Word Filter\obj\Debug\netcoreapp3.1\T04. Word Filter.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\07.Associative Arrays\AssociativeArraysLab\T04. Word Filter\obj\Debug\netcoreapp3.1\T04. Word Filter.genruntimeconfig.cache
