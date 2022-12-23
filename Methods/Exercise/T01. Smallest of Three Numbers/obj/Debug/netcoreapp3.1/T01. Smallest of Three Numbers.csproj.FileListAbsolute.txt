@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\04. Methods\Methods - Exercise\T01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\T01. Smallest of Three Numbers.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\04. Methods\Methods - Exercise\T01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\T01. Smallest of Three Numbers.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\04. Methods\Methods - Exercise\T01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\T01. Smallest of Three Numbers.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\04. Methods\Methods - Exercise\T01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\T01. Smallest of Three Numbers.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\04. Methods\Methods - Exercise\T01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\T01. Smallest of Three Numbers.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\04. Methods\Methods - Exercise\T01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\T01. Smallest of Three Numbers.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\04. Methods\Methods - Exercise\T01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\T01. Smallest of Three Numbers.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\04. Methods\Methods - Exercise\T01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\T01. Smallest of Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\04. Methods\Methods - Exercise\T01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\T01. Smallest of Three Numbers.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\04. Methods\Methods - Exercise\T01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\T01. Smallest of Three Numbers.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\04. Methods\Methods - Exercise\T01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\T01. Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\04. Methods\Methods - Exercise\T01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\T01. Smallest of Three Numbers.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\04. Methods\Methods - Exercise\T01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\T01. Smallest of Three Numbers.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\04. Methods\Methods - Exercise\T01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\T01. Smallest of Three Numbers.genruntimeconfig.cache

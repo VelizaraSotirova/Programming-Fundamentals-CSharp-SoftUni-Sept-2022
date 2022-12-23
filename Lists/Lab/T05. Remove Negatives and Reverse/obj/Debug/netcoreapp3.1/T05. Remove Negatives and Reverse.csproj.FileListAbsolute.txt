@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\05. Lists\Lists Lab\T05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\T05. Remove Negatives and Reverse.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\05. Lists\Lists Lab\T05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\T05. Remove Negatives and Reverse.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\05. Lists\Lists Lab\T05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\T05. Remove Negatives and Reverse.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\05. Lists\Lists Lab\T05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\T05. Remove Negatives and Reverse.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\05. Lists\Lists Lab\T05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\T05. Remove Negatives and Reverse.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\05. Lists\Lists Lab\T05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\T05. Remove Negatives and Reverse.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\05. Lists\Lists Lab\T05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\T05. Remove Negatives and Reverse.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\05. Lists\Lists Lab\T05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\T05. Remove Negatives and Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\05. Lists\Lists Lab\T05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\T05. Remove Negatives and Reverse.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\05. Lists\Lists Lab\T05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\T05. Remove Negatives and Reverse.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\05. Lists\Lists Lab\T05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\T05. Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\05. Lists\Lists Lab\T05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\T05. Remove Negatives and Reverse.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\05. Lists\Lists Lab\T05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\T05. Remove Negatives and Reverse.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\05. Lists\Lists Lab\T05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\T05. Remove Negatives and Reverse.genruntimeconfig.cache

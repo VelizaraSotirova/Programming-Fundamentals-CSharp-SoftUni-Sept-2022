@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\04. Methods\Methods - Exercise\T05. Add and Subtract\bin\Debug\netcoreapp3.1\T05. Add and Subtract.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\04. Methods\Methods - Exercise\T05. Add and Subtract\bin\Debug\netcoreapp3.1\T05. Add and Subtract.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\04. Methods\Methods - Exercise\T05. Add and Subtract\bin\Debug\netcoreapp3.1\T05. Add and Subtract.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\04. Methods\Methods - Exercise\T05. Add and Subtract\bin\Debug\netcoreapp3.1\T05. Add and Subtract.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\04. Methods\Methods - Exercise\T05. Add and Subtract\bin\Debug\netcoreapp3.1\T05. Add and Subtract.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\04. Methods\Methods - Exercise\T05. Add and Subtract\bin\Debug\netcoreapp3.1\T05. Add and Subtract.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\04. Methods\Methods - Exercise\T05. Add and Subtract\obj\Debug\netcoreapp3.1\T05. Add and Subtract.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\04. Methods\Methods - Exercise\T05. Add and Subtract\obj\Debug\netcoreapp3.1\T05. Add and Subtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\04. Methods\Methods - Exercise\T05. Add and Subtract\obj\Debug\netcoreapp3.1\T05. Add and Subtract.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\04. Methods\Methods - Exercise\T05. Add and Subtract\obj\Debug\netcoreapp3.1\T05. Add and Subtract.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\04. Methods\Methods - Exercise\T05. Add and Subtract\obj\Debug\netcoreapp3.1\T05. Add and Subtract.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\04. Methods\Methods - Exercise\T05. Add and Subtract\obj\Debug\netcoreapp3.1\T05. Add and Subtract.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\04. Methods\Methods - Exercise\T05. Add and Subtract\obj\Debug\netcoreapp3.1\T05. Add and Subtract.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\04. Methods\Methods - Exercise\T05. Add and Subtract\obj\Debug\netcoreapp3.1\T05. Add and Subtract.genruntimeconfig.cache

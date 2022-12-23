@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesExercise\T06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\T06. Vehicle Catalogue.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesExercise\T06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\T06. Vehicle Catalogue.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesExercise\T06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\T06. Vehicle Catalogue.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesExercise\T06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\T06. Vehicle Catalogue.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesExercise\T06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\T06. Vehicle Catalogue.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesExercise\T06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\T06. Vehicle Catalogue.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesExercise\T06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\T06. Vehicle Catalogue.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesExercise\T06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\T06. Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesExercise\T06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\T06. Vehicle Catalogue.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesExercise\T06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\T06. Vehicle Catalogue.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesExercise\T06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\T06. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesExercise\T06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\T06. Vehicle Catalogue.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesExercise\T06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\T06. Vehicle Catalogue.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesExercise\T06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\T06. Vehicle Catalogue.genruntimeconfig.cache

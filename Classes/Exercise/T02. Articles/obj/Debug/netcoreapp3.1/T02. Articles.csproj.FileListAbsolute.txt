@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesExercise\T02. Articles\bin\Debug\netcoreapp3.1\T02. Articles.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesExercise\T02. Articles\bin\Debug\netcoreapp3.1\T02. Articles.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesExercise\T02. Articles\bin\Debug\netcoreapp3.1\T02. Articles.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesExercise\T02. Articles\bin\Debug\netcoreapp3.1\T02. Articles.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesExercise\T02. Articles\bin\Debug\netcoreapp3.1\T02. Articles.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesExercise\T02. Articles\bin\Debug\netcoreapp3.1\T02. Articles.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesExercise\T02. Articles\obj\Debug\netcoreapp3.1\T02. Articles.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesExercise\T02. Articles\obj\Debug\netcoreapp3.1\T02. Articles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesExercise\T02. Articles\obj\Debug\netcoreapp3.1\T02. Articles.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesExercise\T02. Articles\obj\Debug\netcoreapp3.1\T02. Articles.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesExercise\T02. Articles\obj\Debug\netcoreapp3.1\T02. Articles.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesExercise\T02. Articles\obj\Debug\netcoreapp3.1\T02. Articles.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesExercise\T02. Articles\obj\Debug\netcoreapp3.1\T02. Articles.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesExercise\T02. Articles\obj\Debug\netcoreapp3.1\T02. Articles.genruntimeconfig.cache

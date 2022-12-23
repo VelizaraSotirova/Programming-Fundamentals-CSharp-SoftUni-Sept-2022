@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\05. Lists\Methods Exercise\T05. Bomb Numbers\bin\Debug\netcoreapp3.1\T05. Bomb Numbers.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\05. Lists\Methods Exercise\T05. Bomb Numbers\bin\Debug\netcoreapp3.1\T05. Bomb Numbers.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\05. Lists\Methods Exercise\T05. Bomb Numbers\bin\Debug\netcoreapp3.1\T05. Bomb Numbers.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\05. Lists\Methods Exercise\T05. Bomb Numbers\bin\Debug\netcoreapp3.1\T05. Bomb Numbers.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\05. Lists\Methods Exercise\T05. Bomb Numbers\bin\Debug\netcoreapp3.1\T05. Bomb Numbers.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\05. Lists\Methods Exercise\T05. Bomb Numbers\bin\Debug\netcoreapp3.1\T05. Bomb Numbers.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\05. Lists\Methods Exercise\T05. Bomb Numbers\obj\Debug\netcoreapp3.1\T05. Bomb Numbers.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\05. Lists\Methods Exercise\T05. Bomb Numbers\obj\Debug\netcoreapp3.1\T05. Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\05. Lists\Methods Exercise\T05. Bomb Numbers\obj\Debug\netcoreapp3.1\T05. Bomb Numbers.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\05. Lists\Methods Exercise\T05. Bomb Numbers\obj\Debug\netcoreapp3.1\T05. Bomb Numbers.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\05. Lists\Methods Exercise\T05. Bomb Numbers\obj\Debug\netcoreapp3.1\T05. Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\05. Lists\Methods Exercise\T05. Bomb Numbers\obj\Debug\netcoreapp3.1\T05. Bomb Numbers.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\05. Lists\Methods Exercise\T05. Bomb Numbers\obj\Debug\netcoreapp3.1\T05. Bomb Numbers.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\05. Lists\Methods Exercise\T05. Bomb Numbers\obj\Debug\netcoreapp3.1\T05. Bomb Numbers.genruntimeconfig.cache
