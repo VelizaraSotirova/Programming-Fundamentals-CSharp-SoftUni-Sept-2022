@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Exercise\T10. LadyBugs\bin\Debug\netcoreapp3.1\T10. LadyBugs.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Exercise\T10. LadyBugs\bin\Debug\netcoreapp3.1\T10. LadyBugs.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Exercise\T10. LadyBugs\bin\Debug\netcoreapp3.1\T10. LadyBugs.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Exercise\T10. LadyBugs\bin\Debug\netcoreapp3.1\T10. LadyBugs.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Exercise\T10. LadyBugs\bin\Debug\netcoreapp3.1\T10. LadyBugs.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Exercise\T10. LadyBugs\bin\Debug\netcoreapp3.1\T10. LadyBugs.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Exercise\T10. LadyBugs\obj\Debug\netcoreapp3.1\T10. LadyBugs.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Exercise\T10. LadyBugs\obj\Debug\netcoreapp3.1\T10. LadyBugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Exercise\T10. LadyBugs\obj\Debug\netcoreapp3.1\T10. LadyBugs.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Exercise\T10. LadyBugs\obj\Debug\netcoreapp3.1\T10. LadyBugs.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Exercise\T10. LadyBugs\obj\Debug\netcoreapp3.1\T10. LadyBugs.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Exercise\T10. LadyBugs\obj\Debug\netcoreapp3.1\T10. LadyBugs.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Exercise\T10. LadyBugs\obj\Debug\netcoreapp3.1\T10. LadyBugs.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Exercise\T10. LadyBugs\obj\Debug\netcoreapp3.1\T10. LadyBugs.genruntimeconfig.cache

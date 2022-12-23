@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Exercise\T06. Equal Sum\bin\Debug\netcoreapp3.1\T06. Equal Sum.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Exercise\T06. Equal Sum\bin\Debug\netcoreapp3.1\T06. Equal Sum.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Exercise\T06. Equal Sum\bin\Debug\netcoreapp3.1\T06. Equal Sum.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Exercise\T06. Equal Sum\bin\Debug\netcoreapp3.1\T06. Equal Sum.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Exercise\T06. Equal Sum\bin\Debug\netcoreapp3.1\T06. Equal Sum.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Exercise\T06. Equal Sum\bin\Debug\netcoreapp3.1\T06. Equal Sum.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Exercise\T06. Equal Sum\obj\Debug\netcoreapp3.1\T06. Equal Sum.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Exercise\T06. Equal Sum\obj\Debug\netcoreapp3.1\T06. Equal Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Exercise\T06. Equal Sum\obj\Debug\netcoreapp3.1\T06. Equal Sum.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Exercise\T06. Equal Sum\obj\Debug\netcoreapp3.1\T06. Equal Sum.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Exercise\T06. Equal Sum\obj\Debug\netcoreapp3.1\T06. Equal Sum.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Exercise\T06. Equal Sum\obj\Debug\netcoreapp3.1\T06. Equal Sum.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Exercise\T06. Equal Sum\obj\Debug\netcoreapp3.1\T06. Equal Sum.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Exercise\T06. Equal Sum\obj\Debug\netcoreapp3.1\T06. Equal Sum.genruntimeconfig.cache

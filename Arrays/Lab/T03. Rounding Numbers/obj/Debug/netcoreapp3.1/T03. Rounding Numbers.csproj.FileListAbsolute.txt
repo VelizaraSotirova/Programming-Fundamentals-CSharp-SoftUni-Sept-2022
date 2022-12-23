@@ -1,0 +1,5 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Lab\T03. Rounding Numbers\obj\Debug\netcoreapp3.1\T03. Rounding Numbers.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Lab\T03. Rounding Numbers\obj\Debug\netcoreapp3.1\T03. Rounding Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Lab\T03. Rounding Numbers\obj\Debug\netcoreapp3.1\T03. Rounding Numbers.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Lab\T03. Rounding Numbers\obj\Debug\netcoreapp3.1\T03. Rounding Numbers.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\03. Arrays\Arrays - Lab\T03. Rounding Numbers\obj\Debug\netcoreapp3.1\T03. Rounding Numbers.csproj.CoreCompileInputs.cache
