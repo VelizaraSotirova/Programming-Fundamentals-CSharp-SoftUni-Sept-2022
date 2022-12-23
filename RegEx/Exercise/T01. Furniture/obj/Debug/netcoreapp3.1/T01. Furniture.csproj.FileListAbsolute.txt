@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExExercise\T01. Furniture\bin\Debug\netcoreapp3.1\T01. Furniture.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExExercise\T01. Furniture\bin\Debug\netcoreapp3.1\T01. Furniture.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExExercise\T01. Furniture\bin\Debug\netcoreapp3.1\T01. Furniture.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExExercise\T01. Furniture\bin\Debug\netcoreapp3.1\T01. Furniture.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExExercise\T01. Furniture\bin\Debug\netcoreapp3.1\T01. Furniture.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExExercise\T01. Furniture\bin\Debug\netcoreapp3.1\T01. Furniture.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExExercise\T01. Furniture\obj\Debug\netcoreapp3.1\T01. Furniture.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExExercise\T01. Furniture\obj\Debug\netcoreapp3.1\T01. Furniture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExExercise\T01. Furniture\obj\Debug\netcoreapp3.1\T01. Furniture.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExExercise\T01. Furniture\obj\Debug\netcoreapp3.1\T01. Furniture.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExExercise\T01. Furniture\obj\Debug\netcoreapp3.1\T01. Furniture.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExExercise\T01. Furniture\obj\Debug\netcoreapp3.1\T01. Furniture.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExExercise\T01. Furniture\obj\Debug\netcoreapp3.1\T01. Furniture.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExExercise\T01. Furniture\obj\Debug\netcoreapp3.1\T01. Furniture.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExExercise\T04. StarEngima\bin\Debug\netcoreapp3.1\T04. StarEngima.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExExercise\T04. StarEngima\bin\Debug\netcoreapp3.1\T04. StarEngima.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExExercise\T04. StarEngima\bin\Debug\netcoreapp3.1\T04. StarEngima.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExExercise\T04. StarEngima\bin\Debug\netcoreapp3.1\T04. StarEngima.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExExercise\T04. StarEngima\bin\Debug\netcoreapp3.1\T04. StarEngima.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExExercise\T04. StarEngima\bin\Debug\netcoreapp3.1\T04. StarEngima.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExExercise\T04. StarEngima\obj\Debug\netcoreapp3.1\T04. StarEngima.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExExercise\T04. StarEngima\obj\Debug\netcoreapp3.1\T04. StarEngima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExExercise\T04. StarEngima\obj\Debug\netcoreapp3.1\T04. StarEngima.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExExercise\T04. StarEngima\obj\Debug\netcoreapp3.1\T04. StarEngima.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExExercise\T04. StarEngima\obj\Debug\netcoreapp3.1\T04. StarEngima.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExExercise\T04. StarEngima\obj\Debug\netcoreapp3.1\T04. StarEngima.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExExercise\T04. StarEngima\obj\Debug\netcoreapp3.1\T04. StarEngima.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExExercise\T04. StarEngima\obj\Debug\netcoreapp3.1\T04. StarEngima.genruntimeconfig.cache

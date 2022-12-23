@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExLab\T01. Match Full Name\bin\Debug\netcoreapp3.1\T01. Match Full Name.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExLab\T01. Match Full Name\bin\Debug\netcoreapp3.1\T01. Match Full Name.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExLab\T01. Match Full Name\bin\Debug\netcoreapp3.1\T01. Match Full Name.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExLab\T01. Match Full Name\bin\Debug\netcoreapp3.1\T01. Match Full Name.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExLab\T01. Match Full Name\bin\Debug\netcoreapp3.1\T01. Match Full Name.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExLab\T01. Match Full Name\bin\Debug\netcoreapp3.1\T01. Match Full Name.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExLab\T01. Match Full Name\obj\Debug\netcoreapp3.1\T01. Match Full Name.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExLab\T01. Match Full Name\obj\Debug\netcoreapp3.1\T01. Match Full Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExLab\T01. Match Full Name\obj\Debug\netcoreapp3.1\T01. Match Full Name.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExLab\T01. Match Full Name\obj\Debug\netcoreapp3.1\T01. Match Full Name.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExLab\T01. Match Full Name\obj\Debug\netcoreapp3.1\T01. Match Full Name.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExLab\T01. Match Full Name\obj\Debug\netcoreapp3.1\T01. Match Full Name.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExLab\T01. Match Full Name\obj\Debug\netcoreapp3.1\T01. Match Full Name.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\09. Regular Expressions\RegExLab\T01. Match Full Name\obj\Debug\netcoreapp3.1\T01. Match Full Name.genruntimeconfig.cache
