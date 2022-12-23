@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T06. Store Boxes\bin\Debug\netcoreapp3.1\T06. Store Boxes.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T06. Store Boxes\bin\Debug\netcoreapp3.1\T06. Store Boxes.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T06. Store Boxes\bin\Debug\netcoreapp3.1\T06. Store Boxes.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T06. Store Boxes\bin\Debug\netcoreapp3.1\T06. Store Boxes.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T06. Store Boxes\bin\Debug\netcoreapp3.1\T06. Store Boxes.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T06. Store Boxes\bin\Debug\netcoreapp3.1\T06. Store Boxes.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T06. Store Boxes\obj\Debug\netcoreapp3.1\T06. Store Boxes.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T06. Store Boxes\obj\Debug\netcoreapp3.1\T06. Store Boxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T06. Store Boxes\obj\Debug\netcoreapp3.1\T06. Store Boxes.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T06. Store Boxes\obj\Debug\netcoreapp3.1\T06. Store Boxes.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T06. Store Boxes\obj\Debug\netcoreapp3.1\T06. Store Boxes.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T06. Store Boxes\obj\Debug\netcoreapp3.1\T06. Store Boxes.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T06. Store Boxes\obj\Debug\netcoreapp3.1\T06. Store Boxes.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T06. Store Boxes\obj\Debug\netcoreapp3.1\T06. Store Boxes.genruntimeconfig.cache

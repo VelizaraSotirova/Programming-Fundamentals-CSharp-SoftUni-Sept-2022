@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T03. Songs\bin\Debug\netcoreapp3.1\T03. Songs.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T03. Songs\bin\Debug\netcoreapp3.1\T03. Songs.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T03. Songs\bin\Debug\netcoreapp3.1\T03. Songs.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T03. Songs\bin\Debug\netcoreapp3.1\T03. Songs.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T03. Songs\bin\Debug\netcoreapp3.1\T03. Songs.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T03. Songs\bin\Debug\netcoreapp3.1\T03. Songs.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T03. Songs\obj\Debug\netcoreapp3.1\T03. Songs.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T03. Songs\obj\Debug\netcoreapp3.1\T03. Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T03. Songs\obj\Debug\netcoreapp3.1\T03. Songs.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T03. Songs\obj\Debug\netcoreapp3.1\T03. Songs.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T03. Songs\obj\Debug\netcoreapp3.1\T03. Songs.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T03. Songs\obj\Debug\netcoreapp3.1\T03. Songs.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T03. Songs\obj\Debug\netcoreapp3.1\T03. Songs.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T03. Songs\obj\Debug\netcoreapp3.1\T03. Songs.genruntimeconfig.cache

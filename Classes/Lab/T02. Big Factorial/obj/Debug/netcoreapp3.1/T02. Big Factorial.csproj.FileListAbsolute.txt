@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T02. Big Factorial\bin\Debug\netcoreapp3.1\T02. Big Factorial.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T02. Big Factorial\bin\Debug\netcoreapp3.1\T02. Big Factorial.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T02. Big Factorial\bin\Debug\netcoreapp3.1\T02. Big Factorial.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T02. Big Factorial\bin\Debug\netcoreapp3.1\T02. Big Factorial.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T02. Big Factorial\bin\Debug\netcoreapp3.1\T02. Big Factorial.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T02. Big Factorial\bin\Debug\netcoreapp3.1\T02. Big Factorial.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T02. Big Factorial\obj\Debug\netcoreapp3.1\T02. Big Factorial.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T02. Big Factorial\obj\Debug\netcoreapp3.1\T02. Big Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T02. Big Factorial\obj\Debug\netcoreapp3.1\T02. Big Factorial.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T02. Big Factorial\obj\Debug\netcoreapp3.1\T02. Big Factorial.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T02. Big Factorial\obj\Debug\netcoreapp3.1\T02. Big Factorial.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T02. Big Factorial\obj\Debug\netcoreapp3.1\T02. Big Factorial.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T02. Big Factorial\obj\Debug\netcoreapp3.1\T02. Big Factorial.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\06. Objects and Classes\ObjectsAndClassesLab\T02. Big Factorial\obj\Debug\netcoreapp3.1\T02. Big Factorial.genruntimeconfig.cache
