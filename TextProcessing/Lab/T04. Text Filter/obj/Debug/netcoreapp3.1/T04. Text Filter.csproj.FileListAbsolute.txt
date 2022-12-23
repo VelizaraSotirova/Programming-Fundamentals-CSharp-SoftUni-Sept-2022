@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T04. Text Filter\bin\Debug\netcoreapp3.1\T04. Text Filter.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T04. Text Filter\bin\Debug\netcoreapp3.1\T04. Text Filter.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T04. Text Filter\bin\Debug\netcoreapp3.1\T04. Text Filter.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T04. Text Filter\bin\Debug\netcoreapp3.1\T04. Text Filter.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T04. Text Filter\bin\Debug\netcoreapp3.1\T04. Text Filter.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T04. Text Filter\bin\Debug\netcoreapp3.1\T04. Text Filter.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T04. Text Filter\obj\Debug\netcoreapp3.1\T04. Text Filter.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T04. Text Filter\obj\Debug\netcoreapp3.1\T04. Text Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T04. Text Filter\obj\Debug\netcoreapp3.1\T04. Text Filter.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T04. Text Filter\obj\Debug\netcoreapp3.1\T04. Text Filter.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T04. Text Filter\obj\Debug\netcoreapp3.1\T04. Text Filter.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T04. Text Filter\obj\Debug\netcoreapp3.1\T04. Text Filter.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T04. Text Filter\obj\Debug\netcoreapp3.1\T04. Text Filter.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T04. Text Filter\obj\Debug\netcoreapp3.1\T04. Text Filter.genruntimeconfig.cache

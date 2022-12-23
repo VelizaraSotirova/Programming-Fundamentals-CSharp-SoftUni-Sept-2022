@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextRrocessingExercise\T08. Letters Change Numbers\bin\Debug\netcoreapp3.1\T08. Letters Change Numbers.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextRrocessingExercise\T08. Letters Change Numbers\bin\Debug\netcoreapp3.1\T08. Letters Change Numbers.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextRrocessingExercise\T08. Letters Change Numbers\bin\Debug\netcoreapp3.1\T08. Letters Change Numbers.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextRrocessingExercise\T08. Letters Change Numbers\bin\Debug\netcoreapp3.1\T08. Letters Change Numbers.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextRrocessingExercise\T08. Letters Change Numbers\bin\Debug\netcoreapp3.1\T08. Letters Change Numbers.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextRrocessingExercise\T08. Letters Change Numbers\bin\Debug\netcoreapp3.1\T08. Letters Change Numbers.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextRrocessingExercise\T08. Letters Change Numbers\obj\Debug\netcoreapp3.1\T08. Letters Change Numbers.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextRrocessingExercise\T08. Letters Change Numbers\obj\Debug\netcoreapp3.1\T08. Letters Change Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextRrocessingExercise\T08. Letters Change Numbers\obj\Debug\netcoreapp3.1\T08. Letters Change Numbers.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextRrocessingExercise\T08. Letters Change Numbers\obj\Debug\netcoreapp3.1\T08. Letters Change Numbers.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextRrocessingExercise\T08. Letters Change Numbers\obj\Debug\netcoreapp3.1\T08. Letters Change Numbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextRrocessingExercise\T08. Letters Change Numbers\obj\Debug\netcoreapp3.1\T08. Letters Change Numbers.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextRrocessingExercise\T08. Letters Change Numbers\obj\Debug\netcoreapp3.1\T08. Letters Change Numbers.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextRrocessingExercise\T08. Letters Change Numbers\obj\Debug\netcoreapp3.1\T08. Letters Change Numbers.genruntimeconfig.cache

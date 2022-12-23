@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextRrocessingExercise\T01. Valid Usernames\bin\Debug\netcoreapp3.1\T01. Valid Usernames.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextRrocessingExercise\T01. Valid Usernames\bin\Debug\netcoreapp3.1\T01. Valid Usernames.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextRrocessingExercise\T01. Valid Usernames\bin\Debug\netcoreapp3.1\T01. Valid Usernames.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextRrocessingExercise\T01. Valid Usernames\bin\Debug\netcoreapp3.1\T01. Valid Usernames.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextRrocessingExercise\T01. Valid Usernames\bin\Debug\netcoreapp3.1\T01. Valid Usernames.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextRrocessingExercise\T01. Valid Usernames\bin\Debug\netcoreapp3.1\T01. Valid Usernames.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextRrocessingExercise\T01. Valid Usernames\obj\Debug\netcoreapp3.1\T01. Valid Usernames.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextRrocessingExercise\T01. Valid Usernames\obj\Debug\netcoreapp3.1\T01. Valid Usernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextRrocessingExercise\T01. Valid Usernames\obj\Debug\netcoreapp3.1\T01. Valid Usernames.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextRrocessingExercise\T01. Valid Usernames\obj\Debug\netcoreapp3.1\T01. Valid Usernames.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextRrocessingExercise\T01. Valid Usernames\obj\Debug\netcoreapp3.1\T01. Valid Usernames.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextRrocessingExercise\T01. Valid Usernames\obj\Debug\netcoreapp3.1\T01. Valid Usernames.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextRrocessingExercise\T01. Valid Usernames\obj\Debug\netcoreapp3.1\T01. Valid Usernames.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextRrocessingExercise\T01. Valid Usernames\obj\Debug\netcoreapp3.1\T01. Valid Usernames.genruntimeconfig.cache

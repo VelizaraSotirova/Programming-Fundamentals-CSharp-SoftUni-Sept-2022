@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T02. Repeat Strings\bin\Debug\netcoreapp3.1\T02. Repeat Strings.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T02. Repeat Strings\bin\Debug\netcoreapp3.1\T02. Repeat Strings.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T02. Repeat Strings\bin\Debug\netcoreapp3.1\T02. Repeat Strings.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T02. Repeat Strings\bin\Debug\netcoreapp3.1\T02. Repeat Strings.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T02. Repeat Strings\bin\Debug\netcoreapp3.1\T02. Repeat Strings.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T02. Repeat Strings\bin\Debug\netcoreapp3.1\T02. Repeat Strings.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T02. Repeat Strings\obj\Debug\netcoreapp3.1\T02. Repeat Strings.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T02. Repeat Strings\obj\Debug\netcoreapp3.1\T02. Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T02. Repeat Strings\obj\Debug\netcoreapp3.1\T02. Repeat Strings.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T02. Repeat Strings\obj\Debug\netcoreapp3.1\T02. Repeat Strings.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T02. Repeat Strings\obj\Debug\netcoreapp3.1\T02. Repeat Strings.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T02. Repeat Strings\obj\Debug\netcoreapp3.1\T02. Repeat Strings.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T02. Repeat Strings\obj\Debug\netcoreapp3.1\T02. Repeat Strings.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T02. Repeat Strings\obj\Debug\netcoreapp3.1\T02. Repeat Strings.genruntimeconfig.cache

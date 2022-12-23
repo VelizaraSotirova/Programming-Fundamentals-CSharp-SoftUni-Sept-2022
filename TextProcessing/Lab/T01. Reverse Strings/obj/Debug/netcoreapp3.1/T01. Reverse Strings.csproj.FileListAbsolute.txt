@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T01. Reverse Strings\bin\Debug\netcoreapp3.1\T01. Reverse Strings.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T01. Reverse Strings\bin\Debug\netcoreapp3.1\T01. Reverse Strings.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T01. Reverse Strings\bin\Debug\netcoreapp3.1\T01. Reverse Strings.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T01. Reverse Strings\bin\Debug\netcoreapp3.1\T01. Reverse Strings.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T01. Reverse Strings\bin\Debug\netcoreapp3.1\T01. Reverse Strings.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T01. Reverse Strings\bin\Debug\netcoreapp3.1\T01. Reverse Strings.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T01. Reverse Strings\obj\Debug\netcoreapp3.1\T01. Reverse Strings.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T01. Reverse Strings\obj\Debug\netcoreapp3.1\T01. Reverse Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T01. Reverse Strings\obj\Debug\netcoreapp3.1\T01. Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T01. Reverse Strings\obj\Debug\netcoreapp3.1\T01. Reverse Strings.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T01. Reverse Strings\obj\Debug\netcoreapp3.1\T01. Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T01. Reverse Strings\obj\Debug\netcoreapp3.1\T01. Reverse Strings.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T01. Reverse Strings\obj\Debug\netcoreapp3.1\T01. Reverse Strings.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Fundamentals\08. Text Processing\TextProcessingLab\T01. Reverse Strings\obj\Debug\netcoreapp3.1\T01. Reverse Strings.genruntimeconfig.cache
